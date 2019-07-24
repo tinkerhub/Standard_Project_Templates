@@ -1,5 +1,7 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
+## Prerequisites
+The stuff the audience need to know before they mess with this project.
 ## How it Works ?
 Explaining the working of project
 ## Libraries used
