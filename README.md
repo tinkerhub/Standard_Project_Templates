@@ -10,6 +10,4 @@ Instructions for setting up project
 Instructions for running
 ## How to Test 
 Instructions for testing  
-## Contributors list
-1. Person Name - GitHub Id
-2. ...
+
